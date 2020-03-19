@@ -1,0 +1,88 @@
+        .bar {background-color:#fff;height:3px;border-radius:5px;right:15px;top:21px;float:left;}
+        body {background:#1e1a43;color:#fff;background-image:url(../img/background_4.jpg);background-position:top;background-repeat:no-repeat;background-size:100%;font-family:'Roboto',sans-serif;letter-spacing:1px;padding-bottom:20px;}
+        body a {color:#fff;text-decoration:none;}
+        .b_black {background-color:#000;}
+        .b_grey {background-color:#888888;}
+        .b_white {background-color:#fff;}
+        .canvasjs-chart-credit, canvasjs-chart-toolbar {display:none !important;}
+        .chartContainer {margin-top:-27px !important;}
+        .chart_wrap {width:420px;float:right;margin:-28px 20px -15px 20px;margin-right: 20px;}
+        .chart_pie {border-radius:0px;}
+        .clear {clear:both;}
+        .color_ani_black {background-image:url(../img/color_ani_black.gif);width:48px;height:12px;overflow:hidden;background-repeat:no-repeat;background-position:0px 0px;opacity:1;background-size:100%;float:left;}
+        .color_ani_black_me {background-image:url(../img/color_ani_black.gif);width:48px;height:12px;overflow:hidden;background-repeat:no-repeat;background-position:0px -11px;opacity:1;background-size:100%;margin:0px 0px 0px 0px;}
+        .comp_bg {background-image:url(../img/laptop.jpg);width:100%;height:195px;background-repeat:no-repeat;background-position:202px -200px;opacity:0;background-size:89%;}
+        .contact_but {background:rgb(244,88,84);background:linear-gradient(90deg, rgba(244,88,84,1) 0%, rgba(207,55,159,1) 100%);border-radius:18px;padding:10px 22px;float:right;width: auto;font-size:18px;font-family:'Roboto condensed', sans-serif;font-weight:100;}
+        .contact_but:hover {filter:brightness(150%);cursor:pointer;}
+        .contact_iframe {margin:10x auto;width:800px;height:800px;}
+        .copyright {font-size:12px;color:#fff;text-align:left;line-height:20px;margin:120px 0px 3px 0px;color:#696969;font-weight:400;}
+        .copyright a {color:#696969;}
+        .column-inner {padding:20px;color:#222;}
+        .copyright .contact_link {margin:10px 0px;display:block;}
+        .debug_code {font-size:20px;margin:12px 0px;}
+        footer {width:100%;max-width:1024px;bottom:0px;padding:12px;text-align:center;margin:43px auto;color:#A8BDFD;}
+        footer a {color:#A8BDFD;}
+        .gallery li img {border:0px solid #0243a4;}
+        .ham_menu {float:right;display:none;}
+        .header {margin:0px auto;}
+        .hide {display:none;}
+        .inner_h1 {font-size:30px;line-height:50px;font-weight:100;font-family:'Roboto condensed', sans-serif;margin-bottom:0px;letter-spacing:0px;}
+        .inner_span {font-size:13px;line-height:22px;line-height:22px;font-weight:400;display:table-cell;vertical-align:middle;text-align:left;color:#A8BDFD;background-image:url(../img/transparent_bg.png);padding:2px 6px;}
+        .inner_txt_me {padding:17px 30px 12px 84px;display:table-cell;vertical-align:middle;text-align:left;margin:12px 12px 12px 12px;float:right;opacity:0;}
+        .inner_me {width:60%;float:right;}
+        .inner_txt_me .contact_but {margin:9px 0px 0px 0px;float:right;}
+        .left {float:left;}
+        .logo {background-image:url(../img/ui_plus_logo_5.png);background-size:100%;background-repeat:no-repeat;width:143px;height:182px;float:left;margin:8px 10px 13px 32px;opacity:0;}
+        .lSPager img {border:0px solid #0243a4;}
+        .lSPager {background:#000;padding:10px 14px !important;margin:0px 0px;border:border:1px solid #0243a4;padding:10px;opacity:0;}
+        .lSSlideWrapper {margin:0px 0px -8px 0px;background:#fff;padding:12px 0px 10px 0px;opacity:0;}
+        .lSSlideOuter {overflow:hidden;border-radius:18px 18px 0px 0px;}
+        .mid_wrap {text-align:center;border-radius:0px 0px 18px 18px;overflow:hidden;}
+        .preview {width:98%;max-width:1200px;clear:both;margin:0px auto;}
+        .preview .content-slider li {background-color:#ed3020;text-align:center;color:#FFF;}
+        .preview .item {margin-bottom:0px;}
+		.preview .content-slider h3 {margin:0;padding:70px 0;}
+        .preview ul {list-style:none outside none;padding-left:0;margin:0;}
+        .preview ul li {text-align:center;}
+        .preview ul.lSPager li.active img {filter:brightness(150%);}
+        .right {float:right;}
+        .txt_me {width:60%;float:right;color:#fff !important;}
+        
+        @media only screen and (max-width:1124px) {
+            body {padding-bottom:0px;}
+            .comp_bg {background-position:130px -195px;background-size:92%;}
+            .logo {margin-left:20px;}
+            .lSSlideOuter {border-radius:0px;}
+            .mid_wrap {border-radius:0px;}
+            .preview {width:100%;}
+        }
+        @media only screen and (max-width:950px) {
+            .comp_bg {background-position:54px -180px;background-size:100%;}
+        }
+        @media only screen and (max-width:840px) {
+            .b_white.txt_me {width:100%;}
+            .color_ani_black_me {margin:0px auto;}
+            .comp_bg {margin-top:0px;background-position:53px -133px;background-size:100%;}
+            .gallery img {width:100%;border-bottom:1px solid black !important;border-left:0px solid black !important;border-right:0px solid black !important;}
+            .header {width:100%;margin:0px auto;text-align:center;}
+            .inner_comp {height:102px;}
+            .inner_me {width:100%;padding:0px;height:auto;}
+            .inner_h1 {margin-bottom:3px;}
+            .inner_txt_me {text-align:center;margin:0px;padding:0px 20px 20px 20px;}
+            .inner_txt_me .contact_but {float:none;width:88%;margin:10px auto;}
+            .inner_span {text-align:center;}
+            .logo {margin:11px auto 10px auto;width:104px;height:131px;float:none;}
+            .lSSlideWrapper {margin:0px 0px -9px 0px;padding:0px;}
+            .txt_me {width:auto;text-align:center;}
+        }
+        @media only screen and (max-width:740px) {
+            .comp_bg {;background-position:-53px -152px;background-size:122%;}
+        }
+        @media only screen and (max-width:600px) {
+            .comp_bg {background-position:-62px -133px;background-size:133%;height:171px;}
+            .copyright {margin-top:105px;}
+        }
+        @media only screen and (max-width:500px) {
+            .comp_bg {background-position:-62px -120px;background-size:153%;height:171px;}
+            .copyright {margin-top:106px;}
+        }
