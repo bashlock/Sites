@@ -14,7 +14,7 @@
         .comp_bg {background-image:url(../img/laptop.jpg);width:100%;height:195px;background-repeat:no-repeat;background-position:202px -200px;opacity:0;background-size:89%;}
         .contact_but {background:rgb(244,88,84);background:linear-gradient(90deg, rgba(244,88,84,1) 0%, rgba(207,55,159,1) 100%);border-radius:18px;padding:10px 22px;float:right;width: auto;font-size:18px;font-family:'Roboto condensed', sans-serif;font-weight:100;}
         .contact_but:hover {filter:brightness(150%);cursor:pointer;}
-        .contact_iframe {margin:10x auto;width:800px;height:800px;}
+        .contact_iframe {margin:10px auto;width:800px;height:800px;}
         .copyright {font-size:12px;color:#fff;text-align:left;line-height:20px;margin:120px 0px 3px 0px;color:#696969;font-weight:400;}
         .copyright a {color:#696969;}
         .column-inner {padding:20px;color:#222;}
