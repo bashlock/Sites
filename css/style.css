@@ -20,7 +20,7 @@
         .column-inner {padding:20px;color:#222;}
         .copyright .contact_link {margin:10px 0px;display:block;}
         .debug_code {font-size:20px;margin:12px 0px;}
-        footer {width:100%;max-width:1024px;bottom:0px;padding:12px;text-align:center;margin:43px auto;color:#A8BDFD;}
+        footer {width:100%;max-width:1024px;bottom:10px;padding:12px;text-align:center;margin:43px auto;color:#A8BDFD;}
         footer a {color:#A8BDFD;}
         .gallery li img {border:0px solid #0243a4;}
         .ham_menu {float:right;display:none;}
